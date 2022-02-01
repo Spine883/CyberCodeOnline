@@ -9,7 +9,7 @@
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
- 	 	 	"trans": "Chiacchierata",
+ 	 	 	"trans": "Chat",
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
@@ -32,7 +32,7 @@
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "È necessario almeno il livello 5 per accedere allo scambio di unità",
+ 	 	 	 	"trans": "Devi essere almeno al livello 3 per accedere allo scambio di unità",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	},
  	 	 	"defaultLines": {
@@ -47,7 +47,7 @@
  	 	 	 	 	"BTC? No, qui trattiamo solo in unità",
  	 	 	 	 	"Conosci Rossi della banca? Siamo andati a scuola insieme",
  	 	 	 	 	"Hai visitato Doc al Trinoky Mart? Non hai un bell'aspetto",
- 	 	 	 	 	"La maggior parte della gente di qui è gentile. Sottolineo la maggior parte",
+ 	 	 	 	 	"La maggior parte della gente qui è gentile. Sottolineo la maggior parte",
  	 	 	 	 	"Sei stato in qualche posto interessante ultimamente? Sono appena tornato dal Neo-Giappone",
  	 	 	 	 	"Non c'è niente come una tazza di tè caldo in una giornata fredda, non sei d'accordo?",
  	 	 	 	 	"Abbiamo altri S.A.T. in arrivo. Vuoi dare un'occhiata nel frattempo?",
